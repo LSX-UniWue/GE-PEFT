@@ -1,0 +1,2 @@
+IS_SHARED_ADAPTER=True
+DEBUG=True
